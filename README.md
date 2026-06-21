@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi 👋, I'm Abhinandan Kumar
 
-<!--
-**abhinandan-kashyap/abhinandan-kashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | Data Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+- 🎓 Final-year BCA student (2026) passionate about technology & software development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Building real-world projects using Java, SQL, React & Firebase
+
+- 🚀 Currently working on **ParkEase** — a Smart Parking Finder Application
+
+- 🌱 Improving my skills in Data Structures & Algorithms, Backend Development & System Design
+
+- 📊 Exploring Data Analytics with SQL, Excel & Visualization
+
+- 🛠️ Tech Stack: Java | JavaScript | React | Firebase | MySQL | Git
+
+- 🎯 Goal: Create impactful products by combining development, analytics & problem-solving
+
+- 📫 Reach me: Email - abhinandan.kashyap18@gmail.com
+               LinkedIn - www.linkedin.com/in/abhinandankumarr
